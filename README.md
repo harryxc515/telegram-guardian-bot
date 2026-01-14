@@ -1,4 +1,4 @@
-# 🤖 Telegram Guardian Bot
+# Telegram Guardian Bot
 
 > **All-in-One AI-Powered Telegram Moderation Bot**  
 Fast • Secure • Scalable • SaaS-Ready 🚀
